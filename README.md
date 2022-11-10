@@ -47,6 +47,6 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 # Other
 
-[Feedback](https://forms.gle/HzkW4tgv6KwSiWaQ8)
+[Feedback](https://forms.gle/HzkW4tgv6KwSiWaQ8) [Discord](https://)
 
 ### Made By: [@Ingrain Network](https://githib.com/techarb2)
