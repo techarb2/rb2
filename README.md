@@ -5,9 +5,9 @@ Retro Bowl 2 is an American style football game created by techarb2. Are you rea
 
 https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
-[Retro Bowl 2](https://retrobowl2.ml)
+## [Retro Bowl 2](https://retrobowl2.ml)
 
-[Techawrld}(https://github.com)
+## [Techawrld](https://github.com)
 
 
 # Recent Updates
