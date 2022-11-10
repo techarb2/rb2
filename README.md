@@ -16,10 +16,10 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 **_11/10/22_**
  - Added BYU Courgers as a Team
  - Added Winds as a Team
- - Added Storm Boiis as a Team
+ - Added Storm Bois as a Team
  - Added Ingrain as a Team
 
-[Feedback](https://)
+[Feedback](https://forms.gle/HzkW4tgv6KwSiWaQ8)
  
 **_11/09/22_**
  - Added Vermont as a Team
