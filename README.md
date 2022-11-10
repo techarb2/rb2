@@ -10,7 +10,7 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 ### [Techawrld](https://github.com)
 
-###[YOutube](https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w)
+### [Youtube](https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w)
 
 # Recent Updates
 **_11/10/22_**
