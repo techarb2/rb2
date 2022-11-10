@@ -7,8 +7,11 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 # Recent Updates
 Added Vermont as a Team
+
 Added Irregulars as a Team
+
 Added Blue Angles as a Team
+
 Fixes to gameplay
 
 
