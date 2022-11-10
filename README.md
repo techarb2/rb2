@@ -33,7 +33,7 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 #6 Sim Games
 
+#7 More Teams
 
-'Copyright' @Ingrain Network
 
-#More Teams
+© - @Ingrain Network
