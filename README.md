@@ -9,7 +9,7 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 11/10/22
  - Add BYU Courgers as a Team
  
-11/09/22
+!11/09/22
  - Added Vermont as a Team
 
  - Added Irregulars as a Team
