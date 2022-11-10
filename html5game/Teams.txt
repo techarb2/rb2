@@ -6,7 +6,7 @@ uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	defense
 4	Winds	0	1	$ffffff	$3289f7	$ffffff	$F1D209	WIN	8	5	0	0	0	0	17	62	0
 5	Kansas City	0	1	$c30214	$dc0015	$ffffff	$dc0015	K.C	5	10	0	0	0	0	40	15	1
 6	Storm Bois	0	1	$00	$00	$ffffff	$ffffff	S.B	5	7	0	0	0	2	17	0	1
-7	Las Vegas	0	1	$aaaaaa	$000000	$aaaaaa	$000000	L.V	4	8	0	0	0	1	5	0	0
+7	Ingrain	0	1	$aaaaaa	$000000	$aaaaaa	$000000	ING	4	8	0	0	0	1	5	0	0
 8	Baltimore	0	2	$161616	$361d7d	$ffffff	$361d7d	BAL	10	7	0	0	0	0	45	19	0
 9	Cincinnati	0	2	$fb4f14	$1a1a1a	$ffffff	$fb4f14	CIN	5	7	0	0	0	0	42	14	0
 10	Cleveland	0	2	$d44200	$4f3531	$FFFFFF	$d44200	CLE	8	9	0	0	0	0	40	61	0
