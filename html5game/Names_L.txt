@@ -517,7 +517,7 @@ Ekuale
 Elder
 Elflein
 Ellerbee
-Elliott
+English
 Ellis
 Ellison
 Elliss
@@ -1208,6 +1208,7 @@ Mond
 Mondeaux
 Mone
 Monroe
+Minniear
 Montgomery
 Moon
 Mooney
