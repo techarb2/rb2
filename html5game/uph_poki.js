@@ -86,8 +86,8 @@ function poki_loadbar(ctx, width, height, total, current, image) {
         } else return d;
     }
     // get parameters:
-    var backgroundColor = getc("background_color", "#FFFFFF");
-    var barBackgroundColor = getc("bar_background_color", "#FFFFFF");
+    var backgroundColor = getc("background_color", "#06cf85");
+    var barBackgroundColor = getc("bar_background_color", "#06cf85");
     var barForegroundColor = getc("bar_foreground_color", "#242238");
     var barBorderColor = getc("bar_border_color", "#242238");
     var barWidth = getf("bar_width", Math.round(width * 0.6));
