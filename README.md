@@ -18,7 +18,7 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
  - Added Winds as a Team
  - Added Storm Bois as a Team
  - Added Ingrain as a Team
- - Added a [Feedback](https://forms.gle/HzkW4tgv6KwSiWaQ8) page
+ - Added a [Feedback](https://forms.gle/HzkW4tgv6KwSiWaQ8) page (FOUND AT BOTTOM OF PAGE)
  
 **_11/09/22_**
  - Added Vermont as a Team
@@ -45,7 +45,8 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 #7 More Teams
 
+# Other
+
+[Feedback](https://forms.gle/HzkW4tgv6KwSiWaQ8)
 
 ### Made By: [@Ingrain Network](https://githib.com/techarb2)
-
-(<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJBrKOIHVnYS-ug7WcP2LC2mbJRy5vVF-dxoP13KWYW1H0qg/viewform?embedded=true" width="640" height="611" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>)
