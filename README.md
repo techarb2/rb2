@@ -5,6 +5,8 @@ Retro Bowl 2 is an American style football game created by New Star Games. Are y
 
 https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
+Recent Update: 3 NEW TEAM CHANGES 
+
 # Future Updates 
 #1 More Uniforms/Helments
 
