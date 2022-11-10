@@ -754,7 +754,7 @@ dilemma_toxic13	$playername was verbally abusive towards the coaching staff toda
 dilemma_random1	$playername was stopped by the police and given a ticket for speeding last night.-choice_IgnoreFine-choice_FinePlayer
 dilemma_random2	$playername was stopped by the police last night and was found to be in possession of illegal substances.-choice_IgnoreFine-choice_FinePlayer
 dilemma_random3	The team broke a curfew and were out partying all night! $playername was the ring leader.-choice_FinePlayer-choice_CriticiseTeam
-dilemma_random4	You caught $playername playing Retro Bowl on his phone during a team meeting.-choice_FinePlayer-choice_PraisePlayer
+dilemma_random4	You caught $playername playing Retro Bowl 2 on his phone during a team meeting.-choice_FinePlayer-choice_PraisePlayer
 dilemma_late1	$playername was late for training today.-choice_IgnoreFine-choice_FinePlayer
 dilemma_late2	$playername turned up late for a team meeting today.-choice_IgnoreFine-choice_FinePlayer
 dilemma_late3	$playername didn't turn up for a meeting with the coaching staff today.-choice_IgnoreFine-choice_FinePlayer
