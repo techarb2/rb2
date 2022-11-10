@@ -6,13 +6,13 @@ Retro Bowl 2 is an American style football game created by techarb2. Are you rea
 https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 # Recent Updates
-Added Vermont as a Team
+ - Added Vermont as a Team
 
-Added Irregulars as a Team
+ - Added Irregulars as a Team
 
-Added Blue Angles as a Team
+ - Added Blue Angles as a Team
 
-Fixes to gameplay
+ - Fixes to gameplay
 
 
 
