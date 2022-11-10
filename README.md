@@ -6,9 +6,10 @@ Retro Bowl 2 is an American style football game created by techarb2. Are you rea
 https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 # Recent Updates
+11/10/22
  - Add BYU Courgers as a Team
  
- 11/09/22
+11/09/22
  - Added Vermont as a Team
 
  - Added Irregulars as a Team
@@ -31,3 +32,5 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 #5 Head Coach
 
 #6 Sim Games
+
+#More Teams
