@@ -8,7 +8,7 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 # Links
 ### [Retro Bowl 2](https://retrobowl2.ml)
 
-### [Techawrld](https://github.com)
+### [Fetured Website](https://)
 
 ### [Youtube](https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w)
 
@@ -47,6 +47,6 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 # Other
 
-[Feedback](https://forms.gle/HzkW4tgv6KwSiWaQ8) - [Discord](https://)
+### [Feedback](https://forms.gle/HzkW4tgv6KwSiWaQ8) - [Discord](https://discord.gg/r2xGDjDak4)
 
 ### Made By: [@Ingrain Network](https://githib.com/techarb2)
