@@ -19,6 +19,7 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
  - Added Storm Bois as a Team
  - Added Ingrain as a Team
  - Added a [Feedback](https://forms.gle/HzkW4tgv6KwSiWaQ8) page (FOUND AT BOTTOM OF PAGE)
+ - Added a [Discord Link](Https://discord.gg/r2xGDjDak4) (AT BOTTOM)
  
 **_11/09/22_**
  - Added Vermont as a Team
