@@ -13,6 +13,13 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 ### [Youtube](https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w)
 
 # Recent Updates
+*_11/16/22_**
+ - Added Utah State
+ - Added Iowa Spooks
+ - Added Blue Mages
+ - Changed Winds to Strange Winds
+ 
+ 
 **_11/10/22_**
  - Added BYU Courgers as a Team
  - Added Winds as a Team
