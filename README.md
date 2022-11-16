@@ -14,7 +14,7 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 # Recent Updates
 **_11/16/22_**
- ### - New Tutorial Feild
+ - New Tutorial Feild
  - Added Team Utah State
  - Added Team Iowa Spooks
  - Added Team Blue Mages
