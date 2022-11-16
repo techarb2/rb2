@@ -15,13 +15,13 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 # Recent Updates
 **_11/16/22_**
  - New Tutorial Feild
- - Added Team Utah State
  - Added Team Iowa Spooks
  - Added Team Blue Mages
  - Added Team RLCS Champs
  - Added Team Crayon State
  - Added Team Michigan Wolverines 
  - Changed Winds to Strange Winds
+ - Changed Vermont to Utah State
  
 **_11/10/22_**
  - Added BYU Courgers as a Team
