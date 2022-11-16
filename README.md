@@ -13,7 +13,7 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 ### [Youtube](https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w)
 
 # Recent Updates
-*_11/16/22_**
+**_11/16/22_**
  - Added Utah State
  - Added Iowa Spooks
  - Added Blue Mages
