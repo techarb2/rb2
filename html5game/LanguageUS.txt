@@ -865,7 +865,7 @@ msg_ChooseFace	Choose your own profile image!
 ui_Uniforms	Uniforms
 btn_Uniforms	Change#Uniforms
 msg_TickerTwitter	Follow @retro_bowl on Twitter
-msg_TickerReddit	Join us on Reddit! r/RetroBowl
+msg_TickerReddit	Join us on Reddit! r/techarb2
 msg_NextGame	Next game: $teamname1 at $teamname2
 ui_VisitKong	Visit Kongregate.com
 ui_min1	1 Min
