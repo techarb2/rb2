@@ -8,9 +8,9 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 # Links
 ### [Retro Bowl 2](https://retrobowl2.ml)
 
-### [Fetured Website](https://)
+### [Reddit](https://r/techarb2)
 
-### [Reddit](r/techarb2)
+### [Fetured Website](https://)
 
 # Recent Updates
 **_11/16/22_**
