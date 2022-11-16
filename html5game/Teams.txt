@@ -10,8 +10,8 @@ uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	defense
 8	Blue Mages	0	2	$161616	$361d7d	$ffffff	$361d7d	BLM	10	7	0	0	0	0	45	19	0
 9	Iowa Spooks	0	2	$fb4f14	$1a1a1a	$ffffff	$fb4f14	IOS	5	7	0	0	0	0	42	14	0
 10	RLCS Champs	0	2	$d44200	$4f3531	$FFFFFF	$d44200	RLC	8	9	0	0	0	0	40	61	0
-11	Pittsburgh	0	2	$000000	$222121	$f8e400	$000000	PIT	9	7	0	0	0	0	38	27	0
-12	Houston	0	3	$101843	$17205b	$ffffff	$17205B	HOU	2	2	0	0	0	2	51	0	1
+11	Crayon State	0	2	$ffffff	$0202d9	$ffffff	$ba0000	CRS	9	7	0	0	0	0	38	27	0
+12	Michigan Wolv	0	3	$101843	$00274C	$ffffff	$FFCB05	MIS	2	2	0	0	0	2	51	0	1
 13	Indianapolis	0	3	$ffffff	$202e82	$ffffff	$202e82	IND	7	5	0	0	0	1	42	21	0
 14	Jacksonville	0	3	$1b1b1b	$292929	$1b1b1b	$1b1b1b	JAC	4	3	0	0	0	0	50	0	1
 15	Tennessee	0	3	$23255d	$181a40	$181A40	$181A40	TEN	6	8	0	0	0	0	45	2	0
