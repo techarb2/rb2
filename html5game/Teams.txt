@@ -8,7 +8,7 @@ uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	defense
 6	Storm Bois	0	1	$00	$00	$ffffff	$ffffff	S.B	5	7	0	0	0	2	17	0	1
 7	Ingrain	0	1	$aaaaaa	$000000	$aaaaaa	$000000	ING	4	8	0	0	0	1	5	0	0
 8	Blue Mages	0	2	$161616	$361d7d	$ffffff	$361d7d	BLM	10	7	0	0	0	0	45	19	0
-9	Iowa Spooks	0	2	$fb4f14	$1a1a1a	$ffffff	$fb4f14	ORS	5	7	0	0	0	0	42	14	0
+9	Iowa Spooks	0	2	$fb4f14	$1a1a1a	$ffffff	$fb4f14	IOS	5	7	0	0	0	0	42	14	0
 10	RLCS Champs	0	2	$d44200	$4f3531	$FFFFFF	$d44200	RLC	8	9	0	0	0	0	40	61	0
 11	Pittsburgh	0	2	$000000	$222121	$f8e400	$000000	PIT	9	7	0	0	0	0	38	27	0
 12	Houston	0	3	$101843	$17205b	$ffffff	$17205B	HOU	2	2	0	0	0	2	51	0	1
