@@ -10,7 +10,7 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 ### [Fetured Website](https://)
 
-### [Youtube](https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w)
+### [Reddit](r/techarb2)
 
 # Recent Updates
 **_11/16/22_**
