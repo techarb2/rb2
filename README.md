@@ -14,9 +14,12 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 
 # Recent Updates
 **_11/16/22_**
- - Added Utah State
- - Added Iowa Spooks
- - Added Blue Mages
+ - Added Team Utah State
+ - Added Team Iowa Spooks
+ - Added Team Blue Mages
+ - Added Team RLCS Champs
+ - Added Team Crayon State
+ - Added Team Michigan Wolverines 
  - Changed Winds to Strange Winds
  
  
