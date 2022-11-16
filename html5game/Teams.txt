@@ -16,7 +16,7 @@ uid	name	conference	division	colhelmet	colshirt	colpants	coltertiary	tla	defense
 14	Jacksonville	0	3	$1b1b1b	$292929	$1b1b1b	$1b1b1b	JAC	4	3	0	0	0	0	50	0	1
 15	Tennessee	0	3	$23255d	$181a40	$181A40	$181A40	TEN	6	8	0	0	0	0	45	2	0
 16	Dallas	1	0	$a6b8c3	$ffffff	$87c6eb	$0021ec	DAL	5	9	0	0	0	1	39	1	0
-17	New York G	1	0	$1933d1	$001cc8	$FFFFFF	$001CC8	NYG	6	6	0	0	0	0	47	25	0
+17	New Fork G	1	0	$101843	$00274C	$ffffff	$FFCB05	NYG	6	6	0	0	0	0	47	25	0
 18	Philadelphia	1	0	$153020	$264933	$ffffff	$1b1b1b	PHI	6	4	0	0	0	0	47	15	1
 19	Washington	1	0	$4f0f0f	$641313	$FFFFFF	$641313	WAS	9	5	0	0	0	0	43	13	0
 20	Arizona	1	1	$ffffff	$a20000	$ffffff	$a20000	ARI	5	5	0	0	0	1	9	0	1
