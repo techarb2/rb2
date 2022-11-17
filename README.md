@@ -15,11 +15,12 @@ https://www.youtube.com/channel/UCvZd5HCtY8KomX0xPgp4I8w
 # Recent Updates
 **_11/16/22_**
  - New Tutorial Feild
+ - Fixed Michigan Jeresy Problem
  - Added Team Iowa Spooks
  - Added Team Blue Mages
  - Added Team RLCS Champs
  - Added Team Crayon State
- - Added Team Michigan Wolverines 
+ - Added Team Michigan
  - Changed Winds to Strange Winds
  - Changed Vermont to Utah State
  
